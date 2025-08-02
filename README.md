@@ -57,4 +57,5 @@ python twilio_test.py
 ```
 Sent from your Twilio trial account:
 💱 Currency Alert! 1 USD = 87.42 INR — above your limit of 85
-```![SMS on phone](pics/twilio.png)
+```
+![SMS on phone](pics/twilio.png)
